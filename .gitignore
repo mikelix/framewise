@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+*.skill
+review/
+review-*/
+.DS_Store

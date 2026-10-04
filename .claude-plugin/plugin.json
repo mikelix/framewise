@@ -1,0 +1,22 @@
+{
+  "name": "framewise",
+  "version": "0.1.0",
+  "description": "A cinematic intelligence mentor and professional film reviewer. Analyses films, scenes, directors, characters and themes, and reviews your own videos the way a festival or a client would, with timestamped notes and a fix list.",
+  "author": {
+    "name": "mikelix"
+  },
+  "homepage": "https://github.com/mikelix/framewise",
+  "repository": "https://github.com/mikelix/framewise",
+  "license": "MIT",
+  "keywords": [
+    "film",
+    "cinema",
+    "video",
+    "review",
+    "critique",
+    "film-analysis",
+    "motion-graphics",
+    "education",
+    "chinese"
+  ]
+}

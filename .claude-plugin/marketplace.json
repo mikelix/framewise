@@ -1,0 +1,24 @@
+{
+  "name": "framewise",
+  "owner": {
+    "name": "mikelix"
+  },
+  "metadata": {
+    "description": "FrameWise: a cinematic intelligence mentor and film reviewer for your coding agent",
+    "version": "0.1.0"
+  },
+  "plugins": [
+    {
+      "name": "framewise",
+      "source": "./",
+      "description": "Turn cinema into insight. Film, scene, director and theme analysis in 12 modes, bilingual English/Chinese, plus a festival-grade Production Review of your own videos: timestamped contact sheets, loudness and music analysis, and a fix list your editing agent can act on.",
+      "version": "0.1.0",
+      "author": {
+        "name": "mikelix"
+      },
+      "license": "MIT",
+      "keywords": ["film", "video", "review", "critique", "cinema", "education", "motion-graphics"],
+      "category": "media"
+    }
+  ]
+}
