@@ -3,7 +3,7 @@
 ## Unreleased
 
 - Planned: an expert knowledge base. Markdown and PDF documents by leading filmmakers and film critics, from the
-  FrameWise GPT's knowledge files, will be distilled into cited references under
+  knowledge files of Framework GPT (the Google Gemini Gem this skill started from), will be distilled into cited references under
   `skills/framewise/references/knowledge/` (summaries and citations; no copyrighted full texts). See the
   README's Roadmap.
 
@@ -11,7 +11,7 @@
 
 First release.
 
-- FrameWise skill for Claude Code and claude.ai, ported from the FrameWise Gem on Google Gemini
+- FrameWise skill for Claude Code and claude.ai, ported from Framework GPT, a Gem on Google Gemini
   (original system prompt kept in `gem/`).
 - 12 response modes: the Gem's 11 (Quick Film Insight, Full Film Analysis, Scene X-Ray, Director Signature Map,
   Character Study, Theme Analysis, Comparative Analysis, Student Essay Builder, Filmmaker Learning Mode,

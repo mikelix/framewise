@@ -12,7 +12,8 @@ FrameWise does two jobs:
    a verdict (ship / ship after fixes / do not ship), and a numbered **fix list** with exact values that you can
    paste straight into an editing agent such as [showtime](https://github.com/FavioVazquez/showtime).
 
-It started as a custom Gem on Google Gemini (the original prompt is in [`gem/`](gem/)) and was rebuilt as a
+It started as **Framework GPT**, an AI agent built as a Gem on Google Gemini (the original prompt is in
+[`gem/`](gem/)), and was rebuilt as a
 Claude skill.
 
 ## Install
@@ -128,8 +129,8 @@ FIX LIST FOR THE EDITOR
 ## Roadmap: expert knowledge base
 
 > **Note:** FrameWise will be updated from a set of Markdown and PDF documents, written by leading experts in
-> filmmaking and film criticism, that make up the knowledge base of the FrameWise GPT (the same agent on other AI
-> platforms). These documents will deepen the analysis modes and the Production Review with expert methods,
+> filmmaking and film criticism, that make up the knowledge base of **Framework GPT**, the AI agent this skill
+> started from, built as a Gem on Google Gemini. These documents will deepen the analysis modes and the Production Review with expert methods,
 > vocabulary and examples.
 
 How they will be added:
