@@ -1,5 +1,12 @@
 # Changelog
 
+## Unreleased
+
+- Planned: an expert knowledge base. Markdown and PDF documents by leading filmmakers and film critics, from the
+  FrameWise GPT's knowledge files, will be distilled into cited references under
+  `skills/framewise/references/knowledge/` (summaries and citations; no copyrighted full texts). See the
+  README's Roadmap.
+
 ## 0.1.0 (2026-10-04)
 
 First release.

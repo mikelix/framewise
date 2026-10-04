@@ -125,6 +125,23 @@ FIX LIST FOR THE EDITOR
   major.
 - Transcription separates voice from music first: about 20 minutes for a 3-minute scored film on a desktop CPU.
 
+## Roadmap: expert knowledge base
+
+> **Note:** FrameWise will be updated from a set of Markdown and PDF documents, written by leading experts in
+> filmmaking and film criticism, that make up the knowledge base of the FrameWise GPT (the same agent on other AI
+> platforms). These documents will deepen the analysis modes and the Production Review with expert methods,
+> vocabulary and examples.
+
+How they will be added:
+
+- Each document will be distilled into a Markdown reference under `skills/framewise/references/knowledge/`
+  (one file per source or topic, with a table of contents), and `SKILL.md` will say when to read each one. This
+  keeps the skill small: Claude loads a source only when a question needs it.
+- Every reference will name its author, title and year, so FrameWise can cite the expert behind a method
+  instead of presenting it as its own.
+- Copyrighted books, articles and PDFs will be summarised and cited, not copied into this public repository.
+  A full text will be included only when its license allows redistribution.
+
 ## Repository layout
 
 ```
